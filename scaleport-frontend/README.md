@@ -1,12 +1,19 @@
-# React + Vite
+# ScalePort
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Skills Are Currency — But Only If Someone Pays You For Them**
 
-Currently, two official plugins are available:
+ScalePort is a platform built to connect skilled professionals with clients who value and pay for quality work. It exists to fix the broken system where talent often goes unpaid, unnoticed, or undervalued.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### What ScalePort Solves
 
-## Expanding the ESLint configuration
+- **For creators**: No more chasing exposure or unpaid gigs.
+- **For clients**: No more wasting time with unvetted freelancers.
+- **For the world**: Global opportunity without borders.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+We believe talent should thrive — and get paid — wherever it lives.
+
+---
+
+This is ScalePort.  
+A platform for those who do the work.  
+A resource for those who need it done.

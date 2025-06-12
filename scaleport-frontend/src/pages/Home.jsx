@@ -93,7 +93,7 @@ function Home() {
         <footer style={footer}>
           <p>&copy; {new Date().getFullYear()} Scaleport</p>
           <p> Reach out to us through +254 104 413411</p>
-          <a href="mailto:contact@scaleport.com" style={email}>contact@scaleport.com</a>
+          <a href="mailto:contact@scaleport.com" style={email}>scaleport.global@gmail.com</a>
           <a
             href="https://www.instagram.com/scaleport.global"
             target="_blank"
